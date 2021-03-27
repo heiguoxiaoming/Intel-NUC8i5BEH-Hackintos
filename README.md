@@ -2,7 +2,7 @@
 
 My blog www.runebalot.cn
 
--If you want to quote or reprint this EFI, please be sure to indicate the source, all content is for personal use and learning reference only, and it is strictly prohibited for commercial use (tb profiteer first die ma)
+- If you want to quote or reprint this EFI, please be sure to indicate the source, all content is for personal use and learning reference only, and it is strictly prohibited for commercial use (tb profiteer first die ma)
 
 <p><center>English(当前)|<a href="https://github.com/TokiharaSay/Intel-NUC8i5BEH-Hackintos/edit/main/README_CN.md">中文</a></center></p>
 
