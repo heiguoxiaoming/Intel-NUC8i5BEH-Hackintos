@@ -2,7 +2,7 @@
 
 我的博客  www.runebalot.cn
 
--若要引用或转载本EFI，请务必注明出处，所有内容仅供个人使用和学习参考，严禁用于商业用途（tb奸商先死ma）
+- 若要引用或转载本EFI，请务必注明出处，所有内容仅供个人使用和学习参考，严禁用于商业用途（tb奸商先死ma）
 
 <p><center>中文(当前)|<a href="https://github.com/TokiharaSay/Intel-NUC8i5BEH-Hackintos/edit/main/README.md">English</a></center></p>
 
