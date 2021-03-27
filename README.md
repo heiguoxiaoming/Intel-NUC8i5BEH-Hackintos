@@ -1,4 +1,4 @@
-# Intel-NUC8-automatic
+# Intel-NUC8i5BEH-Hackintos
 
 ### Instructions for use
 Use following command to build the EFI.
